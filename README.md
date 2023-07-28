@@ -5,5 +5,5 @@ This is a inventory management system aimed for the company like amazon to take 
 ### Team members:
 ▶ *Ashok BK* ***(Me)***<br>
 ▶ *Ashok Prasad Neupane* ***(URL: https://github.com/thenaivekid/StockSync)***<br>
-▶ *Anil Shrestha*<br> (URL: https://github.com/anilstha1)***<br>
+▶ *Anil Shrestha* ***(URL: https://github.com/anilstha1)***<br>
 
