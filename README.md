@@ -1,0 +1,2 @@
+# StockSync
+Inventory Management System
