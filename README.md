@@ -7,3 +7,7 @@ This is an inventory management system aimed for the company like amazon to take
 ▶ *Ashok Prasad Neupane* ***(URL: https://github.com/thenaivekid/StockSync)***<br>
 ▶ *Anil Shrestha* ***(URL: https://github.com/anilstha1)***<br>
 
+##Info:
+###Libraries Used:
+1. wxWidget for Window GUI App
+2. bcrypt for Password hashing
