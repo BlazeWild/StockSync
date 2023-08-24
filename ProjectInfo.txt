@@ -1,1 +1,12 @@
+This is a simple Gui application for the management of the stock.
+Features:
+-> SignUp and Login Page for Clients, Suppliers and Admins.
+-> Separate Windows.
+-> Supplliers-> Can add items by filling the form.
+-> Clients-> Can Buy items that are available in the stock and can also see the shopping history. 
+-> Admin -> Can see supply, order and items history
 
+Features to be Added:
+-> Bills
+-> Description of Products
+-> Verification of Supply form by the Admin.
